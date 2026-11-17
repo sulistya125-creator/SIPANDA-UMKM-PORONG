@@ -1,0 +1,8 @@
+{
+  "name": "PORONG UMKM HUB — Sistem Pemasaran & Pembinaan UMKM Kecamatan Porong",
+  "description": "Sistem Informasi Pemasaran, Kurasi Mutu, Pembinaan Legalitas, dan Dashboard Pimpinan UMKM Terintegrasi untuk Seksi Perekonomian Kecamatan Porong, Kabupaten Sidoarjo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
